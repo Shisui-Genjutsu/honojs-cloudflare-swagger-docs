@@ -2,6 +2,10 @@
 
 A modern, minimal API template using:
 
+## 🖼️ Preview
+
+![API Template Screenshot](./docs/api-docs.png)
+
 - ⚡ [Hono](https://hono.dev/) (ultrafast web framework for Cloudflare Workers)
 - 🧩 [Zod](https://zod.dev/) (for type-safe schema validation)
 - 📘 [Scalar OpenAPI UI](https://scalar.com/docs/openapi/) (Swagger-like docs for your API)
@@ -27,4 +31,3 @@ npm run dev
 Feel free to fork this repo and create pull requests for improvements or new features!
 
 @BhaskarGuthula
-
